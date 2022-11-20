@@ -147,10 +147,10 @@ body {
   line-height: 1.6;
   letter-spacing: 0.03em;
   color: #212121;
-  cursor: pointer;
 }
 .button-list .button-list-item {
   background: #f5f4fa;
+  cursor: pointer;
 }
 
 .button-list .button-list-item:hover,
