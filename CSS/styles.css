@@ -67,7 +67,10 @@ body {
 .contact-list-link:focus {
   color: var(--WebLogo);
 }
-
+.nav-list-item-link-current {
+  color: var(--WebLogo);
+  text-decoration: none;
+}
 .section-header-main {
   width: 1600px;
   height: 600px;
