@@ -67,7 +67,7 @@ body {
 }
 .nav-list-item-link-current {
   color: var(--WebLogo);
-  text-decoration: ;
+  text-decoration: none;
 }
 .section-header-main {
   background-color: var(--MainSectionAndFooter);
